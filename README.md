@@ -1,4 +1,3 @@
-TweetCounter
 TweetCounter is a simple Android app that allows you to post tweets directly to your Twitter account. With a clean and user-friendly interface, you can easily compose and share your thoughts, ideas, or updates in just a few taps. Whether you're sharing a quick update or a longer message, TweetPoster ensures your tweets are posted seamlessly.
 
 Features
