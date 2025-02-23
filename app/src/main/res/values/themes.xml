@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Halanassignment" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:textAppearance">@style/GlobalTextAppearance</item>
+    </style>
+
+    <style name="Theme.Halanassignment" parent="Base.Theme.Halanassignment" />
+    <style name="GlobalTextAppearance">
+        <item name="android:fontFamily">@font/global_font</item></style>
+</resources>

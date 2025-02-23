@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">halanassignment</string>
+    <string name="copy_text" tools:ignore="ExtraTranslation">Copy Text</string>
+    <string name="clear_text">Clear Text</string>
+    <string name="post_tweet">Post tweet</string>
+    <string name="twitter_character_count">Twitter character count</string>
+</resources>
